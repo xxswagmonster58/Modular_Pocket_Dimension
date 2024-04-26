@@ -3,6 +3,5 @@
     "generator": {
         "type": "minecraft:overworld",
             "structure_overrides": []
-        }
     }
 }

@@ -1,17 +1,7 @@
 {
     "type": "pocket_dimension:pocket_dimension",
     "generator": {
-        "type": "minecraft:flat",
-        "settings": {
-            "biome": "pocket_dimension:pocket_dimension",
-            "lakes": false,
-            "features": false,
-            "layers": [
-                {
-                    "block": "minecraft:air",
-                    "height": 1
-                }
-            ],
+        "type": "minecraft:overworld",
             "structure_overrides": []
         }
     }
